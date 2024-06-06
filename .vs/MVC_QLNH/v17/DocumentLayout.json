@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MvcQLNH-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|d:\\mvcqlnh-master\\mvc_qlnh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|d:\\mvcqlnh-master\\mvc_qlnh\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|d:\\mvcqlnh-master\\mvc_qlnh\\wwwroot\\assets\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\wwwroot\\assets\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|d:\\mvcqlnh-master\\mvc_qlnh\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|d:\\mvcqlnh-master\\mvc_qlnh\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|d:\\mvcqlnh-master\\mvc_qlnh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "D:\\MvcQLNH-master\\MVC_QLNH\\wwwroot\\assets\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "MVC_QLNH\\wwwroot\\assets\\css\\sb-admin-2.css",
+              "ToolTip": "D:\\MvcQLNH-master\\MVC_QLNH\\wwwroot\\assets\\css\\sb-admin-2.css",
+              "RelativeToolTip": "MVC_QLNH\\wwwroot\\assets\\css\\sb-admin-2.css",
+              "ViewState": "AQIAAPsIAAAAAAAAAAAiwAwJAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T13:39:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MvcQLNH-master\\MVC_QLNH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MvcQLNH-master\\MVC_QLNH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_QLNH\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:08:49.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MvcQLNH-master\\MVC_QLNH\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\MvcQLNH-master\\MVC_QLNH\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MVC_QLNH\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T13:08:57.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\MvcQLNH-master\\MVC_QLNH\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\MvcQLNH-master\\MVC_QLNH\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MVC_QLNH\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:08:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "all.min.css",
+              "DocumentMoniker": "D:\\MvcQLNH-master\\MVC_QLNH\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+              "RelativeDocumentMoniker": "MVC_QLNH\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+              "ToolTip": "D:\\MvcQLNH-master\\MVC_QLNH\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+              "RelativeToolTip": "MVC_QLNH\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwzwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-06T12:49:14.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MvcQLNH-master\\MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MvcQLNH-master\\MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAPgAAAAAAAAAAAD4vyoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T12:14:26.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
