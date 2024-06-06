@@ -5,17 +5,21 @@ namespace MVC_QLNH.Models;
 
 public partial class TbUserInfo
 {
-    public int MaUser { get; set; }
+    public int UserInfoId { get; set; }
 
-    public string Taikhoan { get; set; } = null!;
+    public int? AccountId { get; set; }
 
-    public string TenUser { get; set; } = null!;
+    public string FullName { get; set; } = null!;
 
-    public DateTime? NgaysinhUser { get; set; }
+    public DateOnly BirthDay { get; set; }
 
-    public int? GioitinhUser { get; set; }
+    public int Sex { get; set; }
 
-    public int? SdtUser { get; set; }
+    public string? Email { get; set; }
 
-    public byte[]? AvtUser { get; set; }
+    public string? PhoneNumber { get; set; }
+
+    public virtual TbAccount? Account { get; set; }
+
+    public virtual ICollection<TbBillHistory> TbBillHistories { get; set; } = new List<TbBillHistory>();
 }

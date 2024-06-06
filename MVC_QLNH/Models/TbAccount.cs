@@ -5,9 +5,13 @@ namespace MVC_QLNH.Models;
 
 public partial class TbAccount
 {
-    public string Taikhoan { get; set; } = null!;
+    public int AccountId { get; set; }
 
-    public string Matkhau { get; set; } = null!;
+    public string Username { get; set; } = null!;
 
-    public string TypeAccount { get; set; } = null!;
+    public string Password { get; set; } = null!;
+
+    public string AccountType { get; set; } = null!;
+
+    public virtual ICollection<TbUserInfo> TbUserInfos { get; set; } = new List<TbUserInfo>();
 }

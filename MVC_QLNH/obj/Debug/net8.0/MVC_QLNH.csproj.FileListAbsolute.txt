@@ -134,3 +134,4 @@ E:\n3_k2\.NET\QLNH DotNet\MVC_QLNH\MVC_QLNH\bin\Debug\net8.0\runtimes\win\lib\ne
 E:\n3_k2\.NET\QLNH DotNet\MVC_QLNH\MVC_QLNH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\n3_k2\.NET\QLNH DotNet\MVC_QLNH\MVC_QLNH\obj\Debug\net8.0\MVC_QLNH.csproj.AssemblyReference.cache
 E:\n3_k2\.NET\QLNH DotNet\MVC_QLNH\MVC_QLNH\obj\Debug\net8.0\MVC_QLNH.csproj.Up2Date
+E:\n3_k2\.NET\QLNH DotNet\MVC_QLNH\MVC_QLNH\obj\Debug\net8.0\MVC_QLNH.sourcelink.json

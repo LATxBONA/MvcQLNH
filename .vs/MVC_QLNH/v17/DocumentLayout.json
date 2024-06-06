@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\models\\sqlmvcqlnhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\models\\sqlmvcqlnhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\models\\tbaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\models\\tbaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\models\\mvcqlnhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\models\\mvcqlnhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|e:\\n3_k2\\.net\\qlnh dotnet\\mvc_qlnh\\mvc_qlnh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC8B9FA-34F1-49D3-9EB3-B90513817B10}|MVC_QLNH\\MVC_QLNH.csproj|solutionrelative:mvc_qlnh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,68 +50,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAOECAAAAAAAAAAAiwAsDAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T12:14:26.804Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "TbAccount.cs",
+              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Models\\TbAccount.cs",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Models\\TbAccount.cs",
+              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Models\\TbAccount.cs",
+              "RelativeToolTip": "MVC_QLNH\\Models\\TbAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:25:26.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_QLNH\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVC_QLNH\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T12:11:09.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MvcQlnhContext.cs",
-              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Models\\MvcQlnhContext.cs",
-              "RelativeDocumentMoniker": "MVC_QLNH\\Models\\MvcQlnhContext.cs",
-              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Models\\MvcQlnhContext.cs",
-              "RelativeToolTip": "MVC_QLNH\\Models\\MvcQlnhContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Title": "SqlMvcQlnhContext.cs",
+              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Models\\SqlMvcQlnhContext.cs",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Models\\SqlMvcQlnhContext.cs",
+              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Models\\SqlMvcQlnhContext.cs",
+              "RelativeToolTip": "MVC_QLNH\\Models\\SqlMvcQlnhContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T11:43:34.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Program.cs",
-              "RelativeDocumentMoniker": "MVC_QLNH\\Program.cs",
-              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Program.cs",
-              "RelativeToolTip": "MVC_QLNH\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:48:04.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_QLNH\\Views\\Login\\Index.cshtml",
-              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "MVC_QLNH\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T10:44:30.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T15:24:37.98Z"
             },
             {
               "$type": "Document",
@@ -117,9 +80,57 @@
               "RelativeDocumentMoniker": "MVC_QLNH\\Controllers\\LoginController.cs",
               "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Controllers\\LoginController.cs",
               "RelativeToolTip": "MVC_QLNH\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:43:53.787Z",
+              "WhenOpened": "2024-06-05T10:43:53.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_QLNH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T12:11:09.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_QLNH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAP8CAAAAAAAAAAAiwAsDAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T12:14:26.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MVC_QLNH\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:44:30.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_QLNH\\Program.cs",
+              "ToolTip": "E:\\n3_k2\\.NET\\QLNH DotNet\\MVC_QLNH\\MVC_QLNH\\Program.cs",
+              "RelativeToolTip": "MVC_QLNH\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:48:04.343Z",
               "EditorCaption": ""
             }
           ]

@@ -6,8 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-var connectionString = builder.Configuration.GetConnectionString("MvcQlnhContext");
-builder.Services.AddDbContext<MvcQlnhContext>(x => x.UseSqlServer(connectionString));
+var connectionString = builder.Configuration.GetConnectionString("SqlMvcQlnhContext");
+builder.Services.AddDbContext<SqlMvcQlnhContext>(x => x.UseSqlServer(connectionString));
 
 
 builder.Services.AddSession();

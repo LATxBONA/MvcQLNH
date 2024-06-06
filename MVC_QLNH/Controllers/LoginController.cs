@@ -5,11 +5,11 @@ namespace MVC_QLNH.Controllers
 {
     public class LoginController : Controller
     {
-        MvcQlnhContext db = new MvcQlnhContext();
+        SqlMvcQlnhContext db = new SqlMvcQlnhContext();
         [HttpGet]
         public IActionResult Index()
         {
-            if (HttpContext.Session.GetString("taikhoan")==null)
+            if (HttpContext.Session.GetString("Username")==null)
             {
                 return View();
             }
@@ -21,12 +21,12 @@ namespace MVC_QLNH.Controllers
         [HttpPost]
         public IActionResult Login(TbAccount tk)
         {
-            if (HttpContext.Session.GetString("taikhoan")==null)
+            if (HttpContext.Session.GetString("Username")==null)
             {
-                var u = db.TbAccounts.Where(x => x.Taikhoan.Equals(tk.Taikhoan) && x.Matkhau.Equals(tk.Matkhau)).FirstOrDefault();
+                var u = db.TbAccounts.Where(x => x.Username.Equals(tk.Username) && x.Password.Equals(tk.Password)).FirstOrDefault();
                 if (u!=null)
                 {
-                    HttpContext.Session.SetString("taikhoan", u.Taikhoan.ToString());
+                    HttpContext.Session.SetString("Username", u.Username.ToString());
                     return RedirectToAction("index", "home");
                 }
                 // Login failed, return a specific view
